@@ -1,4 +1,31 @@
-I'm a Computer Science student at NUML Islamabad (5th Semester, CGPA 3.68) .Focused on full-stack web development with a growing interest in backend architecture and scalable systems.
-I build real-world applications end-to-end. My current project, MedFlow, is a B2B pharmaceutical procurement platform connecting hospitals, pharmacies, and suppliers.Built with React 19, Vite, Redux Toolkit, Tailwind CSS on the client side, and Express, TypeORM, PostgreSQL, and Passport.js on the server. It handles multi-role authentication, quotation workflows, bulk ordering, and supplier management at scale.
-Outside of development, I've spent 1.5 years working as a B2B sales agent making hundreds of cold calls, qualifying leads, and maintaining structured CRM pipelines. That experience taught me how to communicate clearly, stay organised under pressure, and understand what businesses actually need which I bring directly into how I think about the software I build.
-Currently exploring backend development, database design, and API architecture. Always open to collaborating on interesting projects.
+I'm a Full-Stack Engineer and Computer Science undergraduate student at NUML Islamabad, building scalable, real-world applications from database design to deployment.
+
+My flagship project, MedFlow, is a B2B pharmaceutical procurement platform that connects hospitals, pharmacies, and suppliers through a unified workflow. The platform includes multi-role authentication, quotation management, bulk ordering, supplier onboarding, and procurement tracking.
+
+Currently, I’m working as a Python Developer at DigiInn, where I’m deepening my backend expertise while continuing to develop full-stack solutions.
+
+What sets me apart :-
+
+Before moving into tech, I spent 1.5 years in B2B sales, managing cold outreach, CRM pipelines, lead qualification, and client communication across multiple industries. That experience fundamentally changed how I approach software development. I build with the user and the business in mind, not just the technology.
+
+Core Skills:-
+
+Frontend:-
+
+React.js (v19), Vite, Redux Toolkit, BootStrap
+
+Backend:-
+
+Python, Node.js, Express.js, TypeORM, RESTful API Design
+
+Databases:-
+
+PostgreSQL, MySQL, MongoDB
+
+Tools:-
+
+Git, GitHub, Docker, Postman,AWS,
+
+Currently Exploring:-
+
+Backend architecture, scalable systems, distributed design patterns, and API scalability.
