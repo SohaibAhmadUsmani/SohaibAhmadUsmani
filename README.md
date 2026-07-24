@@ -2,7 +2,7 @@ I'm a Full-Stack Engineer and Computer Science undergraduate student at NUML Isl
 
 My flagship project, MedFlow, is a B2B pharmaceutical procurement platform that connects hospitals, pharmacies, and suppliers through a unified workflow. The platform includes multi-role authentication, quotation management, bulk ordering, supplier onboarding, and procurement tracking.
 
-Currently, I’m working as a Python Developer at DigiInn, where I’m deepening my backend expertise while continuing to develop full-stack solutions.
+Currently, I’m working as a Python Developer Intern at DigiInn , where I’m deepening my backend expertise while continuing to develop full-stack solutions.
 
 What sets me apart :-
 
