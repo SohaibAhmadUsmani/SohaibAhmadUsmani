@@ -24,7 +24,7 @@ PostgreSQL, MySQL, MongoDB
 
 Tools:-
 
-Git, GitHub, Docker, Postman,AWS,
+Git, GitHub, Postman,
 
 Currently Exploring:-
 
