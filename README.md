@@ -12,7 +12,6 @@ Currently, I'm working as a **Python Developer Intern at DigiInn**, where I'm ex
 
 I specialize in designing and developing applications that combine clean architecture with practical business value, including:
 
-* Enterprise web applications
 * RESTful APIs & backend services
 * AI-powered software solutions
 * E-commerce platforms
