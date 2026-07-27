@@ -186,5 +186,4 @@ That experience strengthened my communication, problem-solving, and product-thin
 ##  Let's Connect
 
 I'm always open to collaborating on interesting engineering challenges, discussing software architecture, or connecting with developers, recruiters, and technology leaders.
-
-⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
+ If you find my work interesting, feel free to explore my repositories and connect with me.
