@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer | Computer Science Undergraduate @ NUML Islamabad
 
-I build scalable, production-ready web applications with a strong focus on backend engineering, system architecture, and modern web technologies. I enjoy transforming business requirements into reliable, maintainable, and user-centric software.
+I build scalable, production-ready web applications with a strong focus on backend engineering, system architecture, and modern web technologies. I enjoy transforming complex business requirements into reliable, maintainable, and user-centric software.
 
 Currently, I'm working as a **Python Developer Intern at DigiInn**, where I'm expanding my expertise in backend development, API design, and scalable software systems while continuing to build end-to-end full-stack applications.
 
