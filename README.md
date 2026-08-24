@@ -15,7 +15,6 @@ I specialize in designing and developing applications that combine clean archite
 * Learning Management Systems
 * Business workflow automation
 
----
 
 #  Featured Projects
 
