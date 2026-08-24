@@ -5,16 +5,6 @@
 I build scalable, production-ready web applications with a strong focus on backend engineering, system architecture, and modern web technologies. I enjoy transforming complex business requirements into reliable, maintainable, and user-centric software.
 
 
-##  What I Build
-
-I specialize in designing and developing applications that combine clean architecture with practical business value, including:
-
-* RESTful APIs & backend services
-* AI-powered software solutions
-* E-commerce platforms
-* Learning Management Systems
-* Business workflow automation
-
 
 #  Featured Projects
 
