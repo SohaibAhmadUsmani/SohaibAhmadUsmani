@@ -36,7 +36,6 @@ A production-ready procurement platform that streamlines purchasing workflows be
 
 React • Redux Toolkit • Node.js • Express.js • TypeORM • PostgreSQL
 
----
 
 ## Learning Management System
 
