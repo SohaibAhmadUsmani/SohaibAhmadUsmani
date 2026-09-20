@@ -95,7 +95,7 @@ Python Developer at **DigiInn** — B2B cold-caller who closes, feature shipper 
 
 I build things end-to-end: database schema to deployed UI, AI baked in wherever it matters.
 
-> *"I ship features and pitch them to clients on the same day."*
+> *"I ship features "*
 
 </td>
 
