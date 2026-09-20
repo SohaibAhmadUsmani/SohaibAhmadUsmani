@@ -204,11 +204,3 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 
 </div>
 
----
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-
-</div>
