@@ -36,19 +36,7 @@
 <!-- ABOUT -->
 <table>
 <tr>
-<td width="55%" valign="top">
 
-### About Me
-
-Full-Stack Software Engineer focused on building **scalable web applications**, with expertise in backend engineering, APIs, and software architecture.
-
-Software Engineer Intern at **LLMP.io** · Python Developer at **DigiInn**.
-
-Currently gaining hands-on experience building reliable software for real-world products — from database schema to deployed UI, with AI baked in wherever it matters.
-
-> *My background in B2B sales gives me a business-first mindset. I don't just build features — I build solutions that solve real problems, improve UX, and create measurable business value.*
-
-</td>
 
 </tr>
 </table>
