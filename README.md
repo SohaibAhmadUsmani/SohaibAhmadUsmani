@@ -19,10 +19,6 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-sohaibahmadusmani-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d1a)](https://instagram.com/sohaibahmadusmani)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sohaibusmani135-38bdf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://linkedin.com/in/sohaibusmani135)
-&nbsp;
 [![Email](https://img.shields.io/badge/Email-sohaibusmani135%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:sohaibusmani135@gmail.com)
 
 </div>
