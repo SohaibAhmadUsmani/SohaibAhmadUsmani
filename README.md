@@ -25,13 +25,6 @@
 <br/>
 
 <!-- GITHUB STATS -->
-<div align="center">
-
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=SohaibAhmadUsmani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=06061a&title_color=a78bfa&icon_color=6366f1&text_color=e2e8f0&ring_color=ec4899"/>
-&nbsp;&nbsp;
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohaibAhmadUsmani&layout=compact&theme=tokyonight&hide_border=true&bg_color=06061a&title_color=a78bfa&text_color=e2e8f0"/>
-
-</div>
 
 <br/>
 
