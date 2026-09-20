@@ -105,26 +105,7 @@ Currently gaining hands-on experience building reliable software for real-world 
 > *My background in B2B sales gives me a business-first mindset. I don't just build features — I build solutions that solve real problems, improve UX, and create measurable business value.*
 
 </td>
-<td width="45%" valign="top">
 
-```
-┌─────────────────────────────┐
-│  Active Build               │
-│  › AI-powered partner portal│
-│  › Pharma procurement app   │
-│                             │
-│  Currently At               │
-│  LLMP.io · SE Intern        │
-│  DigiInn · Python Dev       │
-│                             │
-│  Stack                      │
-│  Next.js · FastAPI          │
-│  Firebase · PostgreSQL      │
-│  Python · TypeScript        │
-└─────────────────────────────┘
-```
-
-</td>
 </tr>
 </table>
 
