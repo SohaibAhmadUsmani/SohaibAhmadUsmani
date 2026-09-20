@@ -211,6 +211,4 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a78bfa,100:6366f1&height=80&section=footer"/>
-
 </div>
