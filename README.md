@@ -74,7 +74,7 @@
                       :--:.::-                         
 ```
 
-<sub><sup>↑ ASCII art generated from real photo · hover the live preview version</sup></sub>
+
 
 </div>
 
@@ -197,10 +197,5 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohaibAhmadUsmani&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d1a&color=a78bfa&line=6366f1&point=ec4899" width="96%"/>
-
-</div>
 
