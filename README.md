@@ -98,9 +98,7 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 > *"I ship features and pitch them to clients on the same day."*
 
 </td>
-<td width="46%" valign="top">
 
-</td>
 </tr>
 </table>
 
