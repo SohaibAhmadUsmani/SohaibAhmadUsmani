@@ -17,7 +17,7 @@
 <div align="center">
 
 <!-- TYPING SVG — animates natively on GitHub -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=a78bfa&center=true&vCenter=true&multiline=false&repeat=true&width=580&lines=Building+full-stack+%2B+AI-powered+products.;Python+%7C+TypeScript+%7C+Next.js+%7C+FastAPI;Cold+call+to+deployed+feature+%E2%80%94+same+day.;Always+shipping.+Never+stopping." alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=a78bfa&center=true&vCenter=true&multiline=false&repeat=true&width=580&lines=Building+full-stack+%2B+AI-powered+products.;Python+%7C+TypeScript+%7C+Next.js+%7C+FastAPI;%E2%80%94+same+day.;Always+shipping.+Never+stopping." alt="Typing"/>
 
 </div>
 
@@ -99,20 +99,6 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 
 </td>
 <td width="46%" valign="top">
-
-```
-  ┌───────────────────────────┐
-  │  STATUS: actively building  │
-  │                             │
-  │  › AI partner portal        │
-  │  › Pharma procurement app   │
-  │                             │
-  │  STACK                      │
-  │  Next.js · FastAPI          │
-  │  Firebase · Postgres        │
-  │  Python · TypeScript        │
-  └───────────────────────────┘
-```
 
 </td>
 </tr>
@@ -226,20 +212,6 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 
 <!-- FOOTER -->
 <div align="center">
-
-```
-  ┌──────────────────────────────────────────────────────────────┐
-  │                                                                │
-  │   Let's build something.                                       │
-  │                                                                │
-  │   Instagram  →  instagram.com/sohaibahmadusmani               │
-  │   LinkedIn   →  linkedin.com/in/sohaibusmani135               │
-  │   Email      →  sohaibusmani135@gmail.com                     │
-  │                                                                │
-  │   Open to: freelance  ·  collab  ·  full-time roles           │
-  │                                                                │
-  └──────────────────────────────────────────────────────────────┘
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a78bfa,100:6366f1&height=80&section=footer"/>
 
