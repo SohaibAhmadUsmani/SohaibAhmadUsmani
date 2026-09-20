@@ -45,12 +45,6 @@
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohaibAhmadUsmani&theme=tokyo-night&hide_border=true&area=true&bg_color=06061a&color=a78bfa&line=6366f1&point=ec4899&area_color=6366f140&custom_title=Contribution%20Graph" width="96%"/>
-
-</div>
 
 ---
 
