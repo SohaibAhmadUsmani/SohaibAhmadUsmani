@@ -1,29 +1,22 @@
 <!--
-╔══════════════════════════════════════════════════╗
-  SOHAIB AHMAD USMANI — GitHub Profile README
-  Built with glass aesthetic · Real ASCII portrait
-╚══════════════════════════════════════════════════╝
+  SOHAIB AHMAD USMANI — GitHub Profile README v3
+  ASCII portrait generated from real photo
 -->
 
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a78bfa,100:ec4899&height=180&section=header&text=SOHAIB%20AHMAD%20USMANI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20B2B%20Closer&descAlignY=58&descSize=15&descColor=c4b5fd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a78bfa,100:ec4899&height=180&section=header&text=SOHAIB%20AHMAD%20USMANI&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Software%20Engineer%20Intern%20%40%20LLMP.io&descAlignY=58&descSize=14&descColor=c4b5fd"/>
 
 </div>
-
----
 
 <div align="center">
 
-<!-- TYPING SVG — animates natively on GitHub -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=a78bfa&center=true&vCenter=true&multiline=false&repeat=true&width=580&lines=Building+full-stack+%2B+AI-powered+products.;Python+%7C+TypeScript+%7C+Next.js+%7C+FastAPI;Cold+call+to+deployed+feature+%E2%80%94+same+day.;Always+shipping.+Never+stopping." alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=700&color=a78bfa&center=true&vCenter=true&multiline=false&repeat=true&width=580&lines=Building+scalable+full-stack+products.;Backend+engineer.+API+architect.;Software+Engineer+Intern+%40+LLMP.io;Python+Developer+%40+DigiInn;Business-first.+Always+shipping." alt="Typing"/>
 
 </div>
 
----
+<br/>
 
-<!-- SOCIAL BADGES -->
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-sohaibahmadusmani-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d1a)](https://instagram.com/sohaibahmadusmani)
@@ -34,47 +27,61 @@
 
 </div>
 
-<br/>
-
 ---
+
+<br/>
 
 <!-- ASCII PORTRAIT — Generated from real photo -->
 <div align="center">
 
 ```
-           -%%%#-==                 :%%%%%%%%%%%%%%%%%%
-.-=++==:    =#*.::                   +%%%%%%%%%%%%%%%%%
-*%%%%%%%+-:::-.   .:-==++++***####*:.-#%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%-  .+#%%%%%%#%%%%%%%%%%-.:=%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%- .=%%%%%%%%%%%%%%%%%%%%: .#%%%%%%%%%%%%%%
-%%%%%%%%%%%%%= .*%%%###%%%%%%%%%%%%%%=..#%%%%%%%%%%%%%%
-%%%%%%%%%%%%%# -%%+:....-+***=-::-+#%+ .%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%=:%#-:.   .+##+:  ..-+%+ *%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%*#*%%#*+===*%%%#+=-=+*#%**#%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%#+#%%%%%%##%%%%%%%%%%%%%#*#%%%%%%%%%%%%%%%
-############%%+#%%####**#**#*##%%%%%%%*%%%%%%%%%%%%%%%%
-            .+%*##*##*##*++**%%#%###%%%*:..............
-              ..-##%#++*++++**#*#%#%+--                
-                 *###***+===+***#%%#                   
-                 -##*#%##*+*#%%%##%-                   
-                 -%*++***+**#****#%.                   
-                 -@#*++=-:--==+*#%%                    
-                :-+#**#*+=+**####%*-                   
-              .-:. :=+**+=++****+- :-:                 
-        ...::==.      :===+++=-.    :=-.               
-  .:-===-:.::-:          :::.       .:=-::::.          
-++==-:.   ..::           . ..        .-::....::-==+++==
-.       ..             .:..-=-         .....    .:=+**#
-                       .-:.--.                      .:-
-                        --:-.                          
-                        :-:-                           
-                        --:-:                          
-                      ..-:::-.                         
-                     .::-:::--                         
-                      :--:.::-                         
+@@@#+.     -+:.:        ..:-:::---:--*+-.  .=#@@@@@@@@@@@@@@@@
+@@@@@*-::::-=.     .:-+*#####%%%%%%@@@@@%-.:=*@@@@@@@@@@@@@@@@
+@@@@@@@%%%%#:    :+#%@@@@@@@@@@@@@@@@@@@@@- :=+@@@@@@@@@@@@@@@
+@@@@@@@@@@@#:.  -@@@@@@@@@@@%@@@@@@@@@@@@@@:.-:+@@@@@@@@@@@@@@
+@@@@@@@@@@@*: .:#@@@@@@@@@@@@@@@@@@@@@@@@@@%:...%@@@@@@@@@@@@@
+@@@@@@@@@@@#   -*@@@@@@@@@@@@@@@@@@@@@@@@@@@-:.:%@@@@@@@@@@@@@
+@@@@@@@@@@@%   +#@@@@@@@@@@@@@@@@@@@@@@@@@@%=::-%@@@@@@@@@@@@@
+@@@@@@@@@@@@:  #@@@%+++*###%@@@@@@@@%%%%@@@@+. :%@@@@@@@@@@@@@
+@@@@@@@@@@@@+ .@@@*-.     :*##*##*:.   :+%@@*  -@@@@@@@@@@@@@@
+@@@@@@@@@@@@%.:@@%++--:....-+*#*+--:::-==+%@%  *@@@@@@@@@@@@@@
+@@@@@@@@@@@@@+ %@%=:::  . .:#%@%+-.   .--*%@* :@@@@@@@@@@@@@@@
+@@@@@@@@@@@@+%=%@@##*==-::=+@@@@#+-:.-=+=+%@*=##@@@@@@@@@@@@@@
+@@@@@@@@@@@%*@@@@@@@%%##%%%@@@@@@%##***#@@@@*%%*@@@@@@@@@@@@@@
+@@@@@@@@@@@%%*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*%%@@@@@@@@@@@@@@
+@@@@@@@@@@@@+=@@@@@@@@@@%*%@@@@@@@@@@@@@@@@@@+*@@@@@@@@@@@@@@@
+@@@@@@@@@@@@%+#@@@@@@@@%+=@###%#%@%%@@@@@@@@@%#@@@@@@@@@@@@@@@
+===+++===+=#@@##@@%##%%*##*-=+++-#@%%@@%@@@@@@@%#****#*#######
+           :#@%*@@%#%@%%@@%****%%@@@@@@%%%@@@@@+              
+            .-+-%%*%@@**%@%%%#*%@@@@%%@@#%@##%=.              
+                =%#@@%+=+=---=+===+***@@@@@.                  
+                .%@@@@##%%#*++++*+*###@@@@*                   
+                 +@@@%%%%%#**==**#%@%@@@@%.                   
+                 -#%%##%@@%#+=*##%@@@@@@@+                    
+                 -@**%%@@@@@%%@@@@@@@@%#@+                    
+                 -@@*+=*#%######%#%%*+*%@:                    
+                 -@@##+=-----====--=+#@@@:                    
+                 -@@@%###*=::-==+*#%%@@@@:                    
+                .+#@@%%%@##*+*##%%@@@@@@%-                    
+               :=-.####%%*****###%%%%%%%=-+                   
+              =-:.  =**###*+++**##%%##*: =-+.                 
+            .==.     .=*##*+++*###*#*-   :.++:                
+       .:-=+#=.        .-**++**#**+=      .==+-               
+  :-+**=-:--+:            :=+=+=-:.       .--=+==-.           
+#%%*+=.  ::--:              ::..           .:==-:-+==-.       
++-..    :.:==.              ....           ..=-:- :..:===--:--
+      .:..:.              :-..:---          .:=.-:..   .:=+###
+     ...                 :::. .=++:           :=.=...      .-*
+    .                    :--. :=+=.                 ..       
+                         .=-:.-+=.                     .     
+                          =--.-+:                            
+                          -+=:-=                             
+                          .---=-                             
+                           ==.==                             
+                          :+:.:+                             
+                        . --:.:+-                            
+                       . :--:::-+:                           
 ```
-
-<sub><sup>↑ ASCII art generated from real photo · hover the live preview version</sup></sub>
 
 </div>
 
@@ -83,35 +90,38 @@
 <br/>
 
 <!-- ABOUT -->
-<table align="center">
+<table>
 <tr>
-<td width="54%" valign="top">
+<td width="55%" valign="top">
 
 ### About Me
 
-BSCS student at **NUML Islamabad**. Currently building an AI-powered partner portal and a pharma procurement platform.
+Full-Stack Software Engineer focused on building **scalable web applications**, with expertise in backend engineering, APIs, and software architecture.
 
-Python Developer at **DigiInn** — B2B cold-caller who closes, feature shipper who deploys.
+Software Engineer Intern at **LLMP.io** · Python Developer at **DigiInn**.
 
-I build things end-to-end: database schema to deployed UI, AI baked in wherever it matters.
+Currently gaining hands-on experience building reliable software for real-world products — from database schema to deployed UI, with AI baked in wherever it matters.
 
-> *"I ship features and pitch them to clients on the same day."*
+> *My background in B2B sales gives me a business-first mindset. I don't just build features — I build solutions that solve real problems, improve UX, and create measurable business value.*
 
 </td>
-<td width="46%" valign="top">
+<td width="45%" valign="top">
 
 ```
-  ┌───────────────────────────┐
-  │  STATUS: actively building  │
-  │                             │
-  │  › AI partner portal        │
-  │  › Pharma procurement app   │
-  │                             │
-  │  STACK                      │
-  │  Next.js · FastAPI          │
-  │  Firebase · Postgres        │
-  │  Python · TypeScript        │
-  └───────────────────────────┘
+┌─────────────────────────────┐
+│  Active Build               │
+│  › AI-powered partner portal│
+│  › Pharma procurement app   │
+│                             │
+│  Currently At               │
+│  LLMP.io · SE Intern        │
+│  DigiInn · Python Dev       │
+│                             │
+│  Stack                      │
+│  Next.js · FastAPI          │
+│  Firebase · PostgreSQL      │
+│  Python · TypeScript        │
+└─────────────────────────────┘
 ```
 
 </td>
@@ -122,29 +132,10 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 
 <br/>
 
-<!-- TECH STACK HEADER SVG -->
+<!-- TECH STACK -->
 <div align="center">
 
-<svg width="680" height="32" viewBox="0 0 680 32" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="hline" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#6366f1;stop-opacity:0.6"/>
-      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#ec4899;stop-opacity:0.6"/>
-      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <line x1="0" y1="16" x2="680" y2="16" stroke="url(#hline)" stroke-width="1"/>
-  <text x="340" y="21" font-family="JetBrains Mono, monospace" font-size="10" letter-spacing="6" fill="#a78bfa" text-anchor="middle" opacity="0.75">TECH STACK</text>
-</svg>
-
-</div>
-
-<br/>
-
-<!-- LANGUAGES -->
-<div align="center">
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0d0d1a)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -152,10 +143,7 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
 
-</div>
-
-<!-- FRAMEWORKS -->
-<div align="center">
+**Frameworks**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -163,10 +151,7 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
-</div>
-
-<!-- DATABASES -->
-<div align="center">
+**Databases**
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -174,10 +159,7 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
 
-</div>
-
-<!-- TOOLS -->
-<div align="center">
+**Tools & Testing**
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
@@ -197,16 +179,18 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 <!-- GITHUB STATS -->
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.shion.dev/api?username=SohaibAhmadUsmani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=6366f1&text_color=e2e8f0&ring_color=ec4899"/>
-&nbsp;
-<img height="168" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SohaibAhmadUsmani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0"/>
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=SohaibAhmadUsmani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=06061a&title_color=a78bfa&icon_color=6366f1&text_color=e2e8f0&ring_color=ec4899"/>
+&nbsp;&nbsp;
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohaibAhmadUsmani&layout=compact&theme=tokyonight&hide_border=true&bg_color=06061a&title_color=a78bfa&text_color=e2e8f0"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=SohaibAhmadUsmani&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=ec4899&currStreakLabel=6366f1" alt="Streak Stats"/>
+
+<img src="https://streak-stats.demolab.com/?user=SohaibAhmadUsmani&theme=tokyonight&hide_border=true&background=06061a&ring=a78bfa&fire=ec4899&currStreakLabel=6366f1&sideLabels=a78bfa&dates=94a3b8"/>
+
 </div>
 
 ---
@@ -216,7 +200,7 @@ I build things end-to-end: database schema to deployed UI, AI baked in wherever 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohaibAhmadUsmani&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d1a&color=a78bfa&line=6366f1&point=ec4899" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohaibAhmadUsmani&theme=tokyo-night&hide_border=true&area=true&bg_color=06061a&color=a78bfa&line=6366f1&point=ec4899&area_color=6366f140&custom_title=Contribution%20Graph" width="96%"/>
 
 </div>
 
