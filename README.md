@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a78bfa,100:ec4899&height=180&section=header&text=SOHAIB%20AHMAD%20USMANI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20StackB7%20AI%20Engineer%C2%B7&descAlignY=58&descSize=15&descColor=c4b5fd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a78bfa,100:ec4899&height=180&section=header&text=SOHAIB%20AHMAD%20USMANI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%C2%B7&descAlignY=58&descSize=15&descColor=c4b5fd"/>
 
 </div>
 
